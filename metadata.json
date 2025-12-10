@@ -1,0 +1,8 @@
+{
+  "name": "Copy of KS IA Assistente",
+  "description": "Assistente inteligente de Marketing Digital da KS-Tudo Digital. Tire dúvidas sobre tráfego, lançamentos e estratégias 24h por dia.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
