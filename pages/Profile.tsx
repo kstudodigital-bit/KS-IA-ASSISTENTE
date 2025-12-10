@@ -39,7 +39,7 @@ const Profile: React.FC = () => {
         </button>
       </div>
 
-      {/* FAQ Section */}
+      {/* FAQ Section */} 
       <div className="mb-8">
         <h3 className="text-lg font-bold text-ks-text mb-4 flex items-center gap-2">
           <HelpCircle size={20} className="text-ks-accent" /> Perguntas Frequentes
